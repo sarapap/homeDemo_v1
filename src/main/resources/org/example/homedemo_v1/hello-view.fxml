@@ -17,4 +17,7 @@
         <Button fx:id="button2" onAction="#setIR" mnemonicParsing="false" prefHeight="26.0" prefWidth="270.0" text="%button2.text" />
         <Button fx:id="button3" onAction="#setJP" mnemonicParsing="false" prefHeight="26.0" prefWidth="267.0" text="%button3.text" />
     </children>
+    <Label fx:id="nameText"/>
+    <Label fx:id="date"/>
+    <Label fx:id="infoLabel"/>
 </VBox>
